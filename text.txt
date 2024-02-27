@@ -1,0 +1,31 @@
+Write a code to create a menu driven application to manage products. This should be featured with following things:
+
+Product details as mentioned below:
+- Generate Unique product at time of add new product
+- Details: product name, product description, product price, category, discount in %
+
+	1. Product Add
+	2. Product Update
+	3. Product Delete
+	4. View All Product
+
+It is mandetory to create individual module and write functions to perform each task.
+
+NOTE: It is required to store product data in database (sqlite3/mysql).
+
+Create a simple Web Application as same as previous task.
+
+- Generate Unique product at time of add new product
+- Details: product name, product description, product price, category (PK), discount in %
+
+Fase 1 - Normal:
+	1. Product Add
+	2. Product Update
+	3. Product Delete
+	4. View All Product
+
+Fase 2 - Use ajax on update.
+
+It is required to store product data in database (sqlite3/mysql).
+
+NOTE: It is required to store product data in database (sqlite3/mysql).
